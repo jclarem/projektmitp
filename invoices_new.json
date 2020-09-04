@@ -1,0 +1,17 @@
+{
+    "Faktury": [
+        {
+            "id": 1,
+            "data": "2020-09-04 14:53:43",
+            "name": "data_clients['Indywidualni'][0]['nazwa']",
+            "city": "data_clients['Indywidualni'][0]['adres']['miasto']",
+            "zip": "data_clients['Indywidualni'][0]['adres']['kod pocztowy']",
+            "street": "data_clients['Indywidualni'][0]['adres']['ulica']",
+            "building no": "data_clients['Indywidualni'][0]['adres']['numer budynku']",
+            "e-mail": "data_clients['Indywidualni'][0]['adres']['e-mail']",
+            "NIP": "data_clients['Indywidualni'][0]['adres']['NIP']",
+            "gross": 5000,
+            "net": 3622.73
+        }
+    ]
+}
